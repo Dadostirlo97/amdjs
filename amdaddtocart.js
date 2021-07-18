@@ -6,7 +6,7 @@ Codice Originale Just Track It - https://raw.githubusercontent.com/moob0/JustTra
 https://t.me/s/JustTrackIt
 
 How to include:
-javascript:javascript:fetch("https://essedihardware.it/amd/sblocca-addtocart.js",{mode: 'no-cors'}).then((response) => response.text()).then((text) => eval(text));
+javascript:javascript:fetch("https://essedihardware.it/amd/sblocca-addtocart.js").then((response) => response.text()).then((text) => eval(text));
 http://essedihardware.it/
 
 */
